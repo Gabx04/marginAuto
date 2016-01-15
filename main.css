@@ -1,0 +1,17 @@
+div {
+	height:280px;
+	width: 300px;
+	border: 15px solid yellow;
+	padding: 35px;
+	box-sizing: border-box;
+}
+
+#uno {
+	text-align: center;
+}
+
+#dos {
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto; 
+}
